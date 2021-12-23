@@ -14,7 +14,7 @@ namespace UnitTestingInAsyncAwait
             return "some string";
         }
 
-        [TestMethod]
+        //[TestMethod]
         public async Task DoSomething_TestAsyncMethod() 
         {
             //Arrange
