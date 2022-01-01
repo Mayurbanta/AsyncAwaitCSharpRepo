@@ -17,6 +17,11 @@ C# Async Await
 
 *Safe fire and forget - https://www.nuget.org/packages/AsyncAwaitBestPractices/
 
+*To be added:
+  *Deadlocks
+  *TPL examples
+  
+
 
 
 
